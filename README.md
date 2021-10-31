@@ -5,4 +5,4 @@
 * Spring MVC 
 * Spring Data JPA
 * Angular JS
-* 
+ 

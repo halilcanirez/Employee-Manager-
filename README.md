@@ -1,6 +1,6 @@
 # Employee-Manager-
 
-##Tech
+## Tech
 * Spring Boot
 * Spring MVC 
 * Spring Data JPA
